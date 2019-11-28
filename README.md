@@ -31,5 +31,5 @@
 *** Project นี้เหมาะกับการ run บน Simulator (iPhone 8)
 ```
 
-### Wiki
+# Wiki
 [KU-Forward Wiki](https://github.com/noonnutchaya/KU-Forward/wiki)
